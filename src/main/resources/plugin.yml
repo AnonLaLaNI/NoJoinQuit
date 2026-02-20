@@ -1,0 +1,6 @@
+name: NoJoinQuit
+version: '1.0'
+main: me.dennis.nojoinquit.NoJoinQuit
+api-version: '1.21'
+author: Dennis
+description: Removes join and quit messages.
