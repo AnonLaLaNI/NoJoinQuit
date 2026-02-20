@@ -1,5 +1,7 @@
 # NoJoinQuit
 
+![NoJoinQuit Banner](https://img.hightimes76.de/yiCa0/NAtoqoka80.png)
+
 A clean and lightweight Minecraft plugin that removes default join and quit chat messages.
 
 > Silent server chat. No spam. No setup.
